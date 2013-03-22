@@ -47,6 +47,7 @@ mvn -version</arg>
 	</executeclass>
  </job>
 
+<!-- 
   <job name="Update ini file">
   <executeForPack name="Eclipse"/>
   <os family="mac" />
@@ -54,5 +55,6 @@ mvn -version</arg>
 		<arg>${INSTALL_PATH}</arg>
 	</executeclass>
  </job>
+  -->
 
 </processing>
